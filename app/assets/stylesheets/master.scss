@@ -39,6 +39,8 @@
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #24445f;
+	font-family: 'nobileregular', normal;
+	font-weight: bold;
 }
 
 header {
@@ -47,4 +49,16 @@ header {
 
 hr {
 	clear: both;
+}
+
+h1 {
+	font-family: 'calligraffitiregular';
+  font-weight: bold;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-family: 'calligraffitiregular';
+  font-weight: normal;
+  letter-spacing: -1.5px;
 }
