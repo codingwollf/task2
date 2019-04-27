@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Fauna+One');
 
 .clear {
 	clear: both;
@@ -39,7 +40,7 @@
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #24445f;
-	font-family: 'nobileregular', normal;
+	font-family: 'Fauna One', serif;
 	font-weight: bold;
 }
 
@@ -52,20 +53,20 @@ hr {
 }
 
 h1 {
-	font-family: 'calligraffitiregular';
+	font-family: 'Fauna One', serif;
   font-weight: bold;
   letter-spacing: -1.5px;
 }
 
 h2 {
-  font-family: 'calligraffitiregular';
+  font-family: 'Fauna One', serif;
   font-weight: normal;
   letter-spacing: -1.5px;
 }
 
 .next-quote {
 	color: #f84342;
-	font-family: 'calligraffitiregular';
+	font-family: 'Fauna One', serif;
 	font-size: 20px;
 }
 
