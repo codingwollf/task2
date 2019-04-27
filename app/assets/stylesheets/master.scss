@@ -34,7 +34,7 @@
 
 .links {
 	padding-top: 26px;
-  word-spacing: 15px;
+  word-spacing: 10px;
 }
 
 .links a {
@@ -83,4 +83,29 @@ h2 {
 
 .about {
   font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+}
+
+@media (max-width: 750px) {
+  .footer-blurb {
+  text-align: left;
+  }
+}
+
+.modal {
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+}
+
+h2 span {
+  color: #CCB6AD;
+  font-family: 'Fauna One', serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+::selection {
+  background-color: #f84342;
+}
+
+.text-muted {
+  font-size: 10px;
 }
